@@ -1,0 +1,1 @@
+This python code tracks Amazon's products price. It has a very simple GUI in which  you have to enter some data like the URL of the product you are interested in and the max price you are ready to spend on it. If the product changes its price below the max price, a notification would be send to your email account.
